@@ -1,21 +1,27 @@
 #main {
-
+  font-family: sans-serif;
+  background-color: #e4e4e4;
+  border-radius: 5px;
 }
 
 #title {
-
+  align-items: center;
 }
 
 h1 {
-
+  align-self: center;
 }
 
 h2 {
 
 }
 
-#img-div {
+#biography {
+  
+}
 
+#img-div {
+  background-color: white;
 }
 
 img {
