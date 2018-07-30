@@ -22,7 +22,11 @@ h2 {
   font-size: 20px;
 }
 
-#biography {
+#img-caption {
+  text-align: center;
+}
+
+#tribute-info {
   width: 50%;
   margin: auto;
   text-align: left;
@@ -38,10 +42,6 @@ img {
   max-width: 100%;
   display: block;
   height: auto;
-}
-
-#tribute-info {
-  text-align: center;
 }
 
 #bio-list {
